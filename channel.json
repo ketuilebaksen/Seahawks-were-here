@@ -1,0 +1,76 @@
+{
+  "name": "SEAHAWKS WERE HERE",
+  "outro_tag": "SEAHAWKS NEWS EVERY DAY",
+  "editorial": "news",
+  "clip_offset": 83,
+  "team": "Seattle Seahawks",
+  "nickname": "Seahawks",
+  "league": "NFL",
+  "sport": "football",
+  "venue": "Lumen Field",
+  "sources": "ESPN, NFL.com, Seahawks.com, Field Gulls, Pro Football Talk, The Athletic, Seattle Times",
+  "hashtags": "#Seahawks #NFL #SeattleSeahawks #GoHawks",
+  "roster": [
+    "Sam Darnold",
+    "Zach Charbonnet",
+    "Kenneth Walker III",
+    "Jaxon Smith-Njigba",
+    "Cooper Kupp",
+    "Rashid Shaheed",
+    "AJ Barner",
+    "Charles Cross",
+    "Grey Zabel",
+    "Jalen Sundell",
+    "Anthony Bradford",
+    "Abraham Lucas",
+    "Leonard Williams",
+    "Byron Murphy II",
+    "Jarran Reed",
+    "DeMarcus Lawrence",
+    "Uchenna Nwosu",
+    "Ernest Jones IV",
+    "Drake Thomas",
+    "Boye Mafe",
+    "Devon Witherspoon",
+    "Riq Woolen",
+    "Josh Jobe",
+    "Julian Love",
+    "Coby Bryant",
+    "Ty Okada",
+    "Mike Macdonald",
+    "Klint Kubiak",
+    "John Schneider",
+    "Jody Allen"
+  ],
+  "tts_engine": "eleven",
+  "palette": {
+    "primary": [
+      105,
+      190,
+      40
+    ],
+    "secondary": [
+      0,
+      34,
+      68
+    ],
+    "ink": [
+      6,
+      16,
+      28
+    ]
+  },
+  "hook_cut": 2.8,
+  "body_cut": 3.4,
+  "photo_zoom": 0.08,
+  "overlay_kinds": [
+    "speech",
+    "lower3",
+    "comic",
+    "chat"
+  ],
+  "overlay_every_sec": 25,
+  "bounce": true,
+  "thumb_engine": "none",
+  "eleven_voice_id": "S9UjcNYIwfBOtZiDnIQT"
+}

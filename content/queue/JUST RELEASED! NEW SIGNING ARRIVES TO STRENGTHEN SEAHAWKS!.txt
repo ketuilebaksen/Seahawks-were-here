@@ -1,0 +1,185 @@
+Twelve for thirteen.
+
+Ninety-two point three percent. A fifty-seven yarder. Three makes from fifty-plus. And last January, through an entire championship run: nineteen for nineteen.
+
+That’s Jason Myers. That’s Seattle’s kicker. Right now, this season.
+
+Seahawks Nation, I’m opening with that because the document I was handed today spends eleven minutes arguing that Seattle should go acquire a veteran kicker to stabilize its special teams — and the kicker it’s describing has a season-long of fifty yards.
+
+Seattle’s kicker is outkicking the man this script wants to replace him with.
+
+This is James, welcome back to Seahawks Were Here. Let’s do this one properly, because there’s a real roster story this week, there’s a real football lesson buried in here, and there’s a player this document refuses to name who you’re going to see on Sunday.
+
+First, the title, and here’s the good news: both halves of it are true. They’re just not in this document.
+
+“Just released” — absolutely. On Monday, Seattle released running back Dontae McMillan and receiver Malick Meiga from the practice squad. Real moves, real names, two days ago.
+
+“New signing arrives” — also true. Seattle signed fullback Jackson Acker and tight end Josiah Deguara to the practice squad on the same day. Two arrivals, both built for exactly what’s broken.
+
+So you can use that title honestly. You just have to point it at the moves that actually happened.
+
+Because this document? No signing. No release. No player named. And the document says so itself — it literally calls the whole thing a “thought experiment” and asks “who fits the role in this thought experiment?”
+
+It’s also the most obviously machine-written thing I’ve been handed in weeks, and I’ll show you how to spot it, because this skill is worth more than any single stat.
+
+Look at the language: Seattle has been “sorting through the organizational pennies and the coaching fingerprints.” The offense is “searching for texture.” It describes a fan question as “not a rumor mill squeal.” It says a unit would be “boyed” by a conversion, on a “frostbit night.”
+
+Those aren’t accents or typos. Nobody who watches football talks like that, because none of those phrases mean anything. “Organizational pennies” is not a thing. An offense does not have “texture.”
+
+And then the numbers give it away completely. It says the player signed a four-year deal “with a total value around 256 million and guarantees in the neighborhood of 1775 million.”
+
+A kicker on two hundred fifty-six million dollars. With guarantees of one thousand seven hundred seventy-five million — which is one point seven billion dollars for a kicker.
+
+Those are real figures with the decimal points knocked out: $25.6 million and $17.75 million. And here’s the tell that matters: a human being who understood what those numbers meant would have stopped. Anybody who knows football reads “1775 million” and laughs. The machine wrote it, read it back, and kept going.
+
+That’s the detection method, and it’s simple: scale. Grammar mistakes are human. A number that’s off by a factor of ten, printed without flinching, is not.
+
+Okay — so who is this player? The document won’t say, so I will.
+
+Fifteen-ish years in the league. Long tenure with one franchise. Multiple championships. A 2024 extension running through 2028. Four years, around twenty-five point six million, with roughly seventeen point seven five million guaranteed. A 2026 cap hit near seven point three million.
+
+That’s Harrison Butker. The kicker for the Kansas City Chiefs.
+
+And I checked every one of those numbers against Over The Cap, because unlike the document I’m going to tell you the real ones.
+
+Four years, $25.6 million — about $6.4 million a year. Signed in 2024. Runs through 2028. His 2026 cap hit is $7,305,000, with a base salary of $5,805,000. He isn’t a free agent until 2029.
+
+So here’s problem number one, and it’s arithmetic.
+
+Seattle has roughly twelve point eight million dollars in total salary cap space. Harrison Butker’s cap number is seven point three million.
+
+That is fifty-seven percent of everything Seattle has left — spent on a kicker. On a team ranked twenty-ninth in the league in rush EPA per play, with a right guard just coming off injured reserve.
+
+You could not responsibly do that if Kansas City gift-wrapped him. And they’re not going to, because he’s under contract for two more years after this one.
+
+Now problem number two, which is the one that actually ends the conversation. Let’s just compare the two kickers on the document’s own chosen metric.
+
+The document’s pitch for Butker is — and this is a direct quote — “a career-long 50-yard make in the current season’s early stretch.”
+
+So his longest this season is fifty yards.
+
+Jason Myers this season: twelve of thirteen on field goals. Ninety-two point three percent. Longest make, fifty-seven yards — against Washington in Week 3. And three separate makes from fifty or beyond.
+
+Fifty-seven beats fifty. Three makes from fifty-plus beats one.
+
+And it gets better when you look at the games. Against San Francisco, Myers made all seven of his kicks — five field goals and two extra points. In Denver last Thursday, with the season on the line, he hit a fifty-five yarder and then the thirty-four yarder that forced overtime.
+
+And then the number I keep coming back to, because it’s the one that actually tells you who a kicker is: in the 2025 playoffs, on the way to winning Super Bowl LX, Jason Myers was nineteen for nineteen.
+
+Nineteen attempts. Nineteen makes. Through an entire postseason. That is the exact “clutch performance under pressure” the document spends four minutes insisting Seattle needs to go buy.
+
+Seattle already bought it. In 2019.
+
+Now let me give you the honest knock on Myers, because I’m not going to pretend he’s flawless.
+
+He missed a forty-seven yarder in Denver. That was his first missed field goal of the season, and it came in a game Seattle lost by three in overtime. He also missed an extra point in that game.
+
+And there’s a longer-running thing worth noting: in the preseason, against Kansas City in a 9-9 tie, he missed a PAT and a fifty-two yard attempt, and at least one writer flagged an “alarming trend of preseason struggles.”
+
+So the fair version is this: Jason Myers is a 92.3 percent kicker having a very good season who had one bad Thursday at altitude in a game decided by three points. If you want to be annoyed about the forty-seven yarder, be annoyed — I was. But you do not replace a 92 percent kicker over one miss, and you certainly don’t spend fifty-seven percent of your cap space doing it.
+
+Alright. Now the actual football lesson, because the document circles something real and never lands it: why kickers almost never get traded.
+
+There are three reasons, and the third one is the one nobody explains.
+
+Reason one: it’s the most replaceable position on a roster in-season. There are competent kickers sitting at home every single week of the NFL season. If your kicker gets hurt on Sunday, you can have a new one on the practice field by Tuesday. You never need to trade draft capital for a skill that’s available for free.
+
+Reason two: the money doesn’t work in the direction people think. Kicker contracts are small in absolute terms but enormous relative to the value — seven point three million dollars buys you a starting-caliber guard or a rotational edge rusher. You don’t pay premium prices for the one job that has a free replacement market.
+
+And reason three, which is the real one: a kicker is not one man. He’s a three-man timing operation.
+
+Think about what actually happens on a field goal. The long snapper fires the ball back roughly eight yards, laces oriented, to a holder who catches it, spins the laces away, and places the tip at a precise angle — all in about one and a quarter seconds. And the kicker has started his approach before the ball arrives. He’s kicking at a spot he trusts will have a football in it.
+
+That’s not three jobs. That’s one job performed by three bodies, rehearsed thousands of times until the timing is invisible.
+
+Now drop a brand-new kicker into that in week seven. Different approach, different plant depth, different preferred lean on the laces, different rhythm. You didn’t upgrade a leg. You broke a rehearsed trio and asked it to re-learn itself in four practices before a Sunday night game.
+
+And Mike Macdonald said something on Monday that’s exactly this idea, about a different part of the team: “You get, on average, sixty-something opportunities to snap the ball a game... It’s not that many snaps, okay? And so those are precious snaps.” And then: “How you deploy people, when you call it, how you get there, what you practice.”
+
+Operation over acquisition. That’s the whole philosophy of this coaching staff, and it’s why Seattle’s answer to a close-game problem is never going to be a kicker.
+
+Which brings me to the part of the document that’s genuinely, accidentally correct — and then points at the wrong man.
+
+It says Seattle’s season will be decided in the margins of close games. That is completely right. Seattle is 3-3, and the three losses came by two points, three points and three points. Eight points, total. Thirty-three to thirty-one at Washington. Thirty-two to twenty-nine against San Francisco. Seventeen to fourteen in Denver.
+
+So yes — the margins are the season. The document nailed the diagnosis.
+
+And then it assigned the blame to the one unit that’s working.
+
+Look at where those eight points actually went. Seven interceptions from the quarterback, the most in the NFL. A forty-one point four percent pressure rate in Denver, with Darnold going 6-of-19 for 47 yards under pressure. Fourteen sacks this season — five against Denver, five the week before. A rushing offense twenty-fourth in success rate and twenty-ninth in rush EPA per play.
+
+And the kicker? Twelve for thirteen.
+
+The margin problem is real. The kicker is the part of the margin that isn’t broken. Going shopping for a new one is like replacing the tires on a car with no oil in it.
+
+And let me make the opportunity cost concrete, because “fifty-seven percent of your cap space” is abstract until you say what you gave up.
+
+Seven point three million dollars, in the middle of an NFL season, is not nothing. Here is what that money can actually buy at the November tenth trade deadline:
+
+A starting-caliber interior offensive lineman. The exact thing Seattle has been missing for five games while Christian Haynes and Beau Stephens both gave up multiple pressures in Denver.
+
+A rotational edge rusher on an expiring deal, to take snaps off DeMarcus Lawrence and Derick Hall in a December that’s going to be cold and physical.
+
+A veteran tight end on the active roster, instead of hoping a practice-squad elevation covers for Arroyo’s four-game absence.
+
+Or a running back whose contract actually works — like Tony Pollard, who’s in the final year of a three-year, twenty-one point seven five million dollar deal with a six point seven four million dollar base, where Tennessee would save about seven point two five million and eat only about two million in dead money.
+
+And here’s the mechanic that makes deadline shopping cheaper than people realize: in-season, you only take on the remaining prorated base salary. Every week that passes, the price goes down. A player with a six-million-dollar base salary costs roughly three million at the halfway point of the year, and less the week after that.
+
+So the real sentence is this: you can have a guard, an edge rusher and a tight end for what one kicker’s cap number costs — or you can have the kicker, and keep the 29th-ranked rush offense.
+
+That’s not a close call. That’s not even a decision a front office would spend a meeting on.
+
+And one more thing about the special teams argument, because the document has half a point and deserves credit for it.
+
+It says Seattle’s model is defense-first: force shorter fields, force three-and-outs, win the field position battle. That’s actually an accurate description of this team. The defense held Denver to 168 total yards last Thursday while Seattle outgained them 353 to 168 — and lost anyway.
+
+So field position really does matter here. But look at where Seattle’s field position actually comes from, and it isn’t the field goal unit.
+
+It’s Rashid Shaheed, who in that Denver game alone had a 31-yard punt return with under a minute left that set up the tying field goal, plus the two-point conversion and a 42-yard catch. It’s the coverage units. It’s the touchbacks.
+
+The kicking operation converted 92 percent of its chances. The return game created the chance that forced overtime. Both of those units did their jobs. The unit that failed was the one that had the ball on third-and-seven in overtime.
+
+If you want to fix Seattle’s margins, you fix the thing that happens before the field goal attempt — the drive that stalls at the thirty-two instead of the twelve. And that is a blocking and running problem, which is exactly what Seattle spent this week addressing.
+
+So here’s what Seattle is actually doing this week, which is the real “new signing” story.
+
+Monday’s moves: in came Jackson Acker, an undrafted rookie fullback out of Wisconsin — fifty games there, fourteen starts, played both fullback and running back, two-time Academic All-Big Ten, and a high school state champion in both the discus and the shot put. Which, by the way, is a genuine scouting signal: those are rotational power events, won by driving force from the hips through a braced core in a fraction of a second. That’s the exact trait a lead blocker needs.
+
+Also in: Josiah Deguara, a third-round pick out of Cincinnati back in 2020, now twenty-nine, seventy-eight career games with twelve starts, fifty-three catches for 471 yards and three touchdowns. Not a receiving weapon — a hybrid blocker who can line up in the backfield. Philadelphia released him after Week 5.
+
+Out: McMillan and Meiga.
+
+And keep the mechanic straight: Acker and Deguara are on the practice squad, not the fifty-three. To play Sunday they must be signed to the active roster or elevated — and the limit is two elevations per game, three per player per season. That call comes Saturday.
+
+And the two decisions that actually matter:
+
+Zach Charbonnet’s deadline is Thursday, October twenty-second. His twenty-one-day window opened October first. Fifty-three-man roster, or back on PUP for the season. Macdonald on Monday: “Zach is going to have a full week’s worth of reps... and there’s a possibility that you could see him on Sunday in some capacity.”
+
+Anthony Bradford was designated to return Monday after five games on IR with knee and hip injuries. And Macdonald, abandoning his usual hedge: “I know normally I’m pretty coy on this one, but it’s pretty straightforward. If he has a good week, he’s going to play a significant amount, if not the whole game.”
+
+And Elijah Arroyo is expected to go on injured reserve — ESPN’s Jeremy Fowler reported it, and he’s out at least four games with the shoulder.
+
+One guard. One running back. One fullback. One blocking tight end. Every single move Seattle made this week was about blocking and running the football. Nobody in that building is thinking about the kicker, and they’re right not to.
+
+Now let me close with the part that actually is fun.
+
+You’re going to see Harrison Butker on Sunday. He’s the Kansas City Chiefs’ kicker, and Kansas City is at Lumen Field on Sunday night.
+
+So the document got its wish in a way it never intended. You’ll get your Butker game. He’ll be in red, kicking against Seattle, and Jason Myers will be on the other sideline at 92.3 percent.
+
+And in a season where Seattle’s three losses have come by a combined eight points, against a team that has Kenneth Walker the Third and his 537 rushing yards in four games — more than Seattle’s entire team has in five — there’s a real chance this game comes down to exactly the thing the document was obsessing over.
+
+It just won’t be a trade that decides it. It’ll be a forty-six yarder.
+
+Macdonald’s words from Monday are still the right ending: “I’m excited about where we can go, honestly.” And then: “We’ve really had one good day’s worth of work up to this point.”
+
+Go through, not around.
+
+Twelves, two questions. First: would you trust Jason Myers from forty-eight yards with the game on the line Sunday night? He’s 12-of-13 with three fifty-plus makes and nineteen straight in the playoffs — and he missed from forty-seven last Thursday. Yes or no, no hedging. And second, the one that actually matters: which two players do you elevate Saturday? Acker the fullback, Deguara the blocking tight end, Jimmy Ciarlo for linebacker depth, or Irv Charles on special teams — against the best running back in football. Two tickets, four names.
+
+And listen — we just crossed 2,500 subscribers heading for 5,000, and this is the channel that’ll tell you when a script says a kicker makes two hundred fifty-six million dollars. Thursday is the Charbonnet deadline. Saturday is the elevations. Sunday night is Kansas City. I’ll have all of it.
+
+Three and three. Eight points. Twelve for thirteen.
+
+This is James with Seahawks Were Here. Go Hawks.
